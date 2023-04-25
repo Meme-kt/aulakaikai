@@ -1,3 +1,2 @@
-Olá mundo!
-Hello world!
-!Hola mundo!
+Primeiro arquivo Git Hub
+git status
